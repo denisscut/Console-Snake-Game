@@ -1,21 +1,25 @@
 # Console Snake Game
 
+## Introduction
 
-This game is written in C++ and can only run on windows. To run the game you need a C/C++ compiler (for example Mingw) and you can type the command: 
-```g++ .\main.cpp ; ./a.exe.```
+This game is written in C++ and can only run on windows. 
 
+## Setup
 
-Here are some pictures:
+To run the game you need a C/C++ compiler (for example Mingw). 
 
-This is what it looks like when you open the game. 
+## Usage
 
- ![Screenshot 2022-02-08 105222](https://user-images.githubusercontent.com/92582380/152976519-098dd58a-1fdd-4f28-9bf4-cb0d848c8b83.png)
+You can type this command to start the program: ```g++ .\main.cpp ; ./a.exe.```
 
-You have 2 options: 
+When you open the game you have 2 options: 
 1. Play the game 
-2. See the top 10 players (Which are saved on your PC).
+2. See the top 10 players (which are saved on your PC).
 
-And that's what it looks like during the game.
- 
-![Screenshot 2022-02-08 105323](https://user-images.githubusercontent.com/92582380/152976545-0105b491-116b-4d20-a4fc-0d10ac5e78cc.png)
+## Screenshots
+
+![Screenshot 2022-02-08 161006](https://user-images.githubusercontent.com/92582380/153027867-8bd5b0a0-d56d-45e0-a9b5-10c7c4a0df11.png)
+
+![Screenshot 2022-02-08 160249](https://user-images.githubusercontent.com/92582380/153026886-1d1bb229-aac2-4b4f-9ebf-7065f2322534.png)
+
 
