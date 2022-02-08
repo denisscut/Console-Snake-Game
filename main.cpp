@@ -171,8 +171,8 @@ void print() {
 	int i, j;
 	cout << "<Score: " << snake_l - 1 << " >" << '\n' << "Press x to stop the game.";
 	if (dir.x == 0 && dir.y == 0)
-		cout << "   Game: Pause";
-	else cout << "   Game: In game";
+		cout << "   Status: Pause";
+	else cout << "   Status: In game";
 	cout << '\n';
 	for (i = 0; i <= height; i++) {
 		for (j = 0; j <= width; j++)
