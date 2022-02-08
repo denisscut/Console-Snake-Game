@@ -1,3 +1,6 @@
+# Console Snake Game
+
+
 This game is written in C++ and can only run on windows. To run the game you need a C/C++ compiler (for example Mingw) and you can type the command: 
 ```g++ .\main.cpp ; ./a.exe.```
 
