@@ -40,8 +40,8 @@ void Start() {
 	cout << "#                   SNAKE                       #" << '\n';
 	cout << "#                                               #" << '\n';
 	cout << "#   Options:                                    #" << '\n';
-	cout << "#   1. To start the game.                       #" << '\n';
-	cout << "#   2. To see the top 10 players.               #" << '\n';
+	cout << "#   1. Start the game.                          #" << '\n';
+	cout << "#   2. Top 10 players.                          #" << '\n';
 	cout << "#                                               #" << '\n';
 	cout << "#     _________          _________              #" << '\n';
 	cout << "#    /         \\        /         \\             #" << '\n';
